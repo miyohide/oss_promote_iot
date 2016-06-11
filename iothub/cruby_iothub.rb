@@ -38,9 +38,17 @@ request = Net::HTTP::Post.new(
 
 srand(Time.now.to_i)
 
-1.times do
+1_000.times do
   now_time = Time.now.instance_eval { '%s.%03d' % [strftime('%Y/%m/%d %H:%M:%S'), (usec / 1000.0).round]}
-  payload = {DateAndTime: now_time, Temp: Random.rand(30.0).round(2), Humidity: Random.rand(70.0).round(2)}.to_json
+  temp = `./temper`
+  temp.chomp!
+  volt = `/opt/vc/bin/vcgencmd measure_volts core`
+  volt = volt.split("=").last.to_f
+  mem  = `ps -o rss= -p #{Process.pid}`.to_i
+  cpu_temp = `cat /sys/class/thermal/thermal_zone0/temp`
+  cpu_temp.chomp!
+  payload = {DateAndTime: now_time, Temp: temp, Volt: volt, Mem: mem, CpuTemp: cpu_temp}.to_json
+  puts payload
 
   request.body = payload.to_json
 
@@ -53,5 +61,5 @@ srand(Time.now.to_i)
     response = https.request(request)
   }
 
-  p response
+  sleep(1)
 end
