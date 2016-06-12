@@ -1,0 +1,2000 @@
+{"DateAndTime":"2016/06/12 16:12:57.095","Temp":"27.117781","Volt":"1.3125","Mem":"11648","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:02.300","Temp":"27.117781","Volt":"1.3125","Mem":"12272","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:03.744","Temp":"27.117781","Volt":"1.2","Mem":"12372","CpuTemp":"44388"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:05.189","Temp":"27.117781","Volt":"1.3125","Mem":"12464","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:06.621","Temp":"27.117781","Volt":"1.3125","Mem":"12560","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:08.102","Temp":"27.117781","Volt":"1.2","Mem":"12652","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:09.552","Temp":"27.117781","Volt":"1.3125","Mem":"12752","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:10.981","Temp":"27.117781","Volt":"1.3125","Mem":"12904","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:12.548","Temp":"27.117781","Volt":"1.2","Mem":"12948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:14.037","Temp":"27.117781","Volt":"1.2","Mem":"13036","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:15.498","Temp":"27.117781","Volt":"1.3125","Mem":"13120","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:16.917","Temp":"27.182074","Volt":"1.3125","Mem":"13208","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:18.328","Temp":"27.117781","Volt":"1.2","Mem":"13360","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:19.779","Temp":"27.117781","Volt":"1.3125","Mem":"13396","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:21.198","Temp":"27.117781","Volt":"1.3125","Mem":"13484","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:22.640","Temp":"27.182074","Volt":"1.2","Mem":"13576","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:24.085","Temp":"27.117781","Volt":"1.2","Mem":"13672","CpuTemp":"44388"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:29.344","Temp":"27.117781","Volt":"1.2","Mem":"13752","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:30.802","Temp":"27.117781","Volt":"1.3125","Mem":"13840","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:32.265","Temp":"27.117781","Volt":"1.3125","Mem":"13932","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:33.601","Temp":"27.117781","Volt":"1.2","Mem":"14020","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:34.949","Temp":"27.117781","Volt":"1.3125","Mem":"14116","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:36.285","Temp":"27.053488","Volt":"1.3125","Mem":"14212","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:37.638","Temp":"27.117781","Volt":"1.2","Mem":"14304","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:39.002","Temp":"27.117781","Volt":"1.2","Mem":"14408","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:40.378","Temp":"27.117781","Volt":"1.3125","Mem":"14560","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:41.725","Temp":"27.117781","Volt":"1.3125","Mem":"14596","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:43.063","Temp":"27.053488","Volt":"1.2","Mem":"14688","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:44.427","Temp":"27.117781","Volt":"1.2","Mem":"14772","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:45.806","Temp":"27.117781","Volt":"1.3125","Mem":"14872","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:47.157","Temp":"27.182074","Volt":"1.3125","Mem":"15028","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:48.489","Temp":"27.117781","Volt":"1.2","Mem":"15064","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:49.848","Temp":"27.117781","Volt":"1.2","Mem":"15152","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:55.022","Temp":"27.117781","Volt":"1.2","Mem":"15248","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:56.390","Temp":"27.117781","Volt":"1.3125","Mem":"15340","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:57.706","Temp":"27.053488","Volt":"1.2","Mem":"15412","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:13:59.083","Temp":"27.117781","Volt":"1.3125","Mem":"15504","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:00.404","Temp":"27.117781","Volt":"1.3125","Mem":"15584","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:01.755","Temp":"27.053488","Volt":"1.3125","Mem":"15668","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:06.241","Temp":"27.053488","Volt":"1.2","Mem":"15760","CpuTemp":"44388"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:07.617","Temp":"27.053488","Volt":"1.2","Mem":"15928","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:08.984","Temp":"27.053488","Volt":"1.2","Mem":"15956","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:10.346","Temp":"27.053488","Volt":"1.3125","Mem":"16032","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:11.699","Temp":"27.117781","Volt":"1.3125","Mem":"16116","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:13.033","Temp":"27.053488","Volt":"1.2","Mem":"16212","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:14.401","Temp":"27.117781","Volt":"1.3125","Mem":"16304","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:15.732","Temp":"27.053488","Volt":"1.3125","Mem":"16400","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:17.065","Temp":"27.117781","Volt":"1.3125","Mem":"16496","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:18.367","Temp":"26.989193","Volt":"1.3125","Mem":"16588","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:23.547","Temp":"27.053488","Volt":"1.2","Mem":"16688","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:24.902","Temp":"27.053488","Volt":"1.3125","Mem":"16764","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:26.243","Temp":"27.117781","Volt":"1.3125","Mem":"16796","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:27.585","Temp":"27.117781","Volt":"1.2","Mem":"16840","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:28.943","Temp":"27.117781","Volt":"1.3125","Mem":"16872","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:30.280","Temp":"27.117781","Volt":"1.3125","Mem":"16916","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:31.624","Temp":"27.117781","Volt":"1.3125","Mem":"16968","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:33.040","Temp":"27.117781","Volt":"1.2","Mem":"17040","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:34.505","Temp":"26.989193","Volt":"1.3125","Mem":"17100","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:35.828","Temp":"27.053488","Volt":"1.3125","Mem":"17176","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:37.160","Temp":"27.117781","Volt":"1.3125","Mem":"17216","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:38.497","Temp":"27.117781","Volt":"1.2","Mem":"17252","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:39.863","Temp":"27.117781","Volt":"1.3125","Mem":"17312","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:41.173","Temp":"27.182074","Volt":"1.3125","Mem":"17388","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:42.505","Temp":"27.053488","Volt":"1.2","Mem":"17468","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:43.889","Temp":"26.989193","Volt":"1.2","Mem":"17500","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:49.096","Temp":"27.053488","Volt":"1.3125","Mem":"17528","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:50.437","Temp":"27.182074","Volt":"1.3125","Mem":"17564","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:51.775","Temp":"27.117781","Volt":"1.3125","Mem":"17596","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:53.113","Temp":"27.117781","Volt":"1.2","Mem":"17640","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:54.480","Temp":"27.053488","Volt":"1.3125","Mem":"17680","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:55.821","Temp":"27.053488","Volt":"1.3125","Mem":"17712","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:57.166","Temp":"27.053488","Volt":"1.3125","Mem":"17752","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:58.491","Temp":"27.117781","Volt":"1.2","Mem":"17768","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:14:59.885","Temp":"27.053488","Volt":"1.3125","Mem":"17804","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:01.236","Temp":"27.053488","Volt":"1.3125","Mem":"17828","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:02.573","Temp":"27.117781","Volt":"1.2","Mem":"17860","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:06.957","Temp":"27.053488","Volt":"1.2","Mem":"17888","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:08.352","Temp":"27.117781","Volt":"1.2","Mem":"17908","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:09.723","Temp":"26.989193","Volt":"1.2","Mem":"17944","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:11.427","Temp":"27.053488","Volt":"1.2","Mem":"17972","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:12.801","Temp":"27.117781","Volt":"1.2","Mem":"17996","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:17.925","Temp":"27.053488","Volt":"1.2","Mem":"18016","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:19.276","Temp":"27.053488","Volt":"1.3125","Mem":"18024","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:20.605","Temp":"26.989193","Volt":"1.3125","Mem":"18048","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:21.937","Temp":"27.053488","Volt":"1.3125","Mem":"18092","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:23.262","Temp":"27.117781","Volt":"1.2","Mem":"18132","CpuTemp":"44388"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:24.643","Temp":"26.989193","Volt":"1.2","Mem":"18172","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:25.975","Temp":"26.989193","Volt":"1.2","Mem":"18208","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:27.364","Temp":"27.117781","Volt":"1.2","Mem":"18236","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:28.742","Temp":"27.053488","Volt":"1.2","Mem":"18252","CpuTemp":"44388"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:30.116","Temp":"26.989193","Volt":"1.3125","Mem":"18300","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:31.473","Temp":"27.053488","Volt":"1.3125","Mem":"18336","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:32.797","Temp":"27.053488","Volt":"1.2","Mem":"18360","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:34.134","Temp":"27.053488","Volt":"1.3125","Mem":"18388","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:35.554","Temp":"27.117781","Volt":"1.3125","Mem":"18424","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:36.881","Temp":"27.117781","Volt":"1.3125","Mem":"18448","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:38.352","Temp":"27.053488","Volt":"1.3125","Mem":"18480","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:43.496","Temp":"27.053488","Volt":"1.2","Mem":"18484","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:44.877","Temp":"27.053488","Volt":"1.3125","Mem":"18508","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:46.217","Temp":"27.053488","Volt":"1.3125","Mem":"18540","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:47.539","Temp":"27.053488","Volt":"1.2","Mem":"18560","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:48.911","Temp":"26.989193","Volt":"1.3125","Mem":"18584","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:50.257","Temp":"27.053488","Volt":"1.3125","Mem":"18632","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:51.609","Temp":"27.053488","Volt":"1.3125","Mem":"18664","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:53.354","Temp":"27.053488","Volt":"1.2","Mem":"18688","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:54.710","Temp":"27.053488","Volt":"1.2","Mem":"18700","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:56.072","Temp":"27.117781","Volt":"1.3125","Mem":"18724","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:57.419","Temp":"27.053488","Volt":"1.3125","Mem":"18744","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:15:58.773","Temp":"27.117781","Volt":"1.2","Mem":"18784","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:00.141","Temp":"26.989193","Volt":"1.2","Mem":"18808","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:01.499","Temp":"27.117781","Volt":"1.3125","Mem":"18828","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:02.815","Temp":"27.053488","Volt":"1.2","Mem":"18844","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:04.188","Temp":"27.117781","Volt":"1.2","Mem":"18848","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:09.377","Temp":"27.117781","Volt":"1.3125","Mem":"18856","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:10.795","Temp":"27.053488","Volt":"1.3125","Mem":"18860","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:12.128","Temp":"27.053488","Volt":"1.3125","Mem":"18872","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:16.480","Temp":"27.053488","Volt":"1.3125","Mem":"18892","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:17.787","Temp":"27.053488","Volt":"1.2","Mem":"18900","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:19.138","Temp":"27.117781","Volt":"1.3125","Mem":"18924","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:20.478","Temp":"26.989193","Volt":"1.3125","Mem":"18932","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:21.826","Temp":"27.053488","Volt":"1.3125","Mem":"18944","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:23.174","Temp":"27.053488","Volt":"1.2","Mem":"18952","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:24.550","Temp":"27.117781","Volt":"1.3125","Mem":"18956","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:26.235","Temp":"26.989193","Volt":"1.3125","Mem":"18964","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:27.562","Temp":"27.053488","Volt":"1.2","Mem":"18976","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:28.957","Temp":"27.053488","Volt":"1.2","Mem":"18996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:30.324","Temp":"27.053488","Volt":"1.2","Mem":"19016","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:31.682","Temp":"27.053488","Volt":"1.2","Mem":"19024","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:33.007","Temp":"27.053488","Volt":"1.3125","Mem":"19036","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:38.232","Temp":"27.053488","Volt":"1.2","Mem":"19044","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:39.691","Temp":"27.117781","Volt":"1.3125","Mem":"19060","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:41.128","Temp":"27.053488","Volt":"1.3125","Mem":"19072","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:42.524","Temp":"27.053488","Volt":"1.2","Mem":"19080","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:43.872","Temp":"26.989193","Volt":"1.3125","Mem":"19108","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:45.216","Temp":"27.117781","Volt":"1.3125","Mem":"19120","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:46.566","Temp":"27.053488","Volt":"1.3125","Mem":"19136","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:47.898","Temp":"26.989193","Volt":"1.2","Mem":"19152","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:49.255","Temp":"27.117781","Volt":"1.3125","Mem":"19168","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:50.555","Temp":"27.182074","Volt":"1.3125","Mem":"19180","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:51.863","Temp":"27.117781","Volt":"1.3125","Mem":"19196","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:53.188","Temp":"27.053488","Volt":"1.2","Mem":"19196","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:54.539","Temp":"27.053488","Volt":"1.3125","Mem":"19212","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:55.866","Temp":"27.117781","Volt":"1.3125","Mem":"19216","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:57.190","Temp":"27.053488","Volt":"1.3125","Mem":"19220","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:16:58.525","Temp":"27.053488","Volt":"1.2","Mem":"19244","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:04.209","Temp":"27.053488","Volt":"1.3125","Mem":"19260","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:05.540","Temp":"27.053488","Volt":"1.3125","Mem":"19268","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:06.839","Temp":"27.053488","Volt":"1.3125","Mem":"19280","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:08.160","Temp":"27.053488","Volt":"1.2","Mem":"19288","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:09.540","Temp":"27.117781","Volt":"1.3125","Mem":"19292","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:10.834","Temp":"27.053488","Volt":"1.3125","Mem":"19292","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:12.237","Temp":"27.182074","Volt":"1.3125","Mem":"19300","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:13.536","Temp":"27.117781","Volt":"1.2","Mem":"19324","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:14.902","Temp":"27.053488","Volt":"1.3125","Mem":"19348","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:16.199","Temp":"27.053488","Volt":"1.3125","Mem":"19352","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:17.547","Temp":"27.053488","Volt":"1.2","Mem":"19372","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:18.935","Temp":"26.989193","Volt":"1.2","Mem":"19388","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:20.305","Temp":"26.989193","Volt":"1.3125","Mem":"19400","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:21.641","Temp":"26.989193","Volt":"1.3125","Mem":"19408","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:22.958","Temp":"27.053488","Volt":"1.2","Mem":"19428","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:24.344","Temp":"26.989193","Volt":"1.2","Mem":"19436","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:30.033","Temp":"27.053488","Volt":"1.2","Mem":"19436","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:31.400","Temp":"26.989193","Volt":"1.3125","Mem":"19436","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:32.728","Temp":"27.053488","Volt":"1.2","Mem":"19440","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:34.089","Temp":"27.182074","Volt":"1.3125","Mem":"19444","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:35.417","Temp":"26.989193","Volt":"1.3125","Mem":"19444","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:36.747","Temp":"27.053488","Volt":"1.3125","Mem":"19472","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:38.074","Temp":"27.053488","Volt":"1.2","Mem":"19484","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:39.433","Temp":"27.053488","Volt":"1.2","Mem":"19492","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:40.809","Temp":"26.989193","Volt":"1.3125","Mem":"19500","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:42.139","Temp":"27.053488","Volt":"1.3125","Mem":"19516","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:43.625","Temp":"26.989193","Volt":"1.2","Mem":"19516","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:45.066","Temp":"27.053488","Volt":"1.3125","Mem":"19536","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:46.473","Temp":"27.053488","Volt":"1.3125","Mem":"19560","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:47.784","Temp":"27.117781","Volt":"1.2","Mem":"19560","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:49.142","Temp":"27.053488","Volt":"1.3125","Mem":"19572","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:50.456","Temp":"27.053488","Volt":"1.2","Mem":"19572","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:55.655","Temp":"27.117781","Volt":"1.2","Mem":"19584","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:57.039","Temp":"27.053488","Volt":"1.2","Mem":"19588","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:58.398","Temp":"27.182074","Volt":"1.2","Mem":"19592","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:17:59.784","Temp":"27.117781","Volt":"1.2","Mem":"19604","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:01.163","Temp":"26.989193","Volt":"1.3125","Mem":"19604","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:02.488","Temp":"26.989193","Volt":"1.2","Mem":"19612","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:03.829","Temp":"26.989193","Volt":"1.3125","Mem":"19620","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:05.233","Temp":"27.053488","Volt":"1.3125","Mem":"19628","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:06.543","Temp":"26.989193","Volt":"1.3125","Mem":"19640","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:07.867","Temp":"26.989193","Volt":"1.2","Mem":"19640","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:09.230","Temp":"26.989193","Volt":"1.2","Mem":"19652","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:10.602","Temp":"26.989193","Volt":"1.3125","Mem":"19668","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:11.966","Temp":"26.989193","Volt":"1.3125","Mem":"19680","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:13.378","Temp":"26.989193","Volt":"1.2","Mem":"19696","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:14.712","Temp":"27.117781","Volt":"1.3125","Mem":"19696","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:16.057","Temp":"27.053488","Volt":"1.2","Mem":"19696","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:21.267","Temp":"26.989193","Volt":"1.3125","Mem":"19704","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:22.604","Temp":"26.989193","Volt":"1.2","Mem":"19716","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:23.958","Temp":"26.989193","Volt":"1.3125","Mem":"19736","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:25.282","Temp":"26.989193","Volt":"1.3125","Mem":"19744","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:26.638","Temp":"26.924900","Volt":"1.3125","Mem":"19752","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:27.981","Temp":"26.924900","Volt":"1.2","Mem":"19752","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:29.330","Temp":"26.989193","Volt":"1.3125","Mem":"19772","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:30.657","Temp":"27.053488","Volt":"1.3125","Mem":"19780","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:31.990","Temp":"26.989193","Volt":"1.3125","Mem":"19800","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:33.344","Temp":"26.989193","Volt":"1.2","Mem":"19812","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:34.686","Temp":"26.924900","Volt":"1.3125","Mem":"19812","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:36.018","Temp":"26.989193","Volt":"1.3125","Mem":"19828","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:37.346","Temp":"26.989193","Volt":"1.3125","Mem":"19832","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:38.706","Temp":"26.989193","Volt":"1.2","Mem":"19832","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:40.068","Temp":"26.924900","Volt":"1.3125","Mem":"19852","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:41.381","Temp":"26.924900","Volt":"1.3125","Mem":"19868","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:46.504","Temp":"27.053488","Volt":"1.3125","Mem":"19888","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:47.945","Temp":"26.989193","Volt":"1.2","Mem":"19888","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:49.409","Temp":"26.860605","Volt":"1.3125","Mem":"19892","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:50.887","Temp":"26.924900","Volt":"1.3125","Mem":"19892","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:52.317","Temp":"26.924900","Volt":"1.3125","Mem":"19892","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:53.779","Temp":"26.924900","Volt":"1.3125","Mem":"19896","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:55.196","Temp":"26.924900","Volt":"1.3125","Mem":"19904","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:56.619","Temp":"26.860605","Volt":"1.3125","Mem":"19916","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:57.931","Temp":"26.924900","Volt":"1.2","Mem":"19920","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:18:59.292","Temp":"26.924900","Volt":"1.3125","Mem":"19920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:00.623","Temp":"26.860605","Volt":"1.3125","Mem":"19932","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:01.934","Temp":"26.860605","Volt":"1.3125","Mem":"19948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:03.265","Temp":"26.860605","Volt":"1.2","Mem":"19948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:04.618","Temp":"26.860605","Volt":"1.2","Mem":"19948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:05.993","Temp":"26.924900","Volt":"1.2","Mem":"19952","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:07.374","Temp":"26.796312","Volt":"1.2","Mem":"19956","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:12.539","Temp":"26.860605","Volt":"1.2","Mem":"19956","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:13.923","Temp":"26.796312","Volt":"1.3125","Mem":"19960","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:15.347","Temp":"26.860605","Volt":"1.3125","Mem":"19968","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:16.680","Temp":"26.860605","Volt":"1.3125","Mem":"19968","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:18.018","Temp":"26.860605","Volt":"1.2","Mem":"19980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:19.381","Temp":"26.860605","Volt":"1.2","Mem":"19980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:20.761","Temp":"26.732018","Volt":"1.2","Mem":"19996","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:22.129","Temp":"26.732018","Volt":"1.2","Mem":"20004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:23.493","Temp":"26.796312","Volt":"1.2","Mem":"20016","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:24.840","Temp":"26.796312","Volt":"1.3125","Mem":"20024","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:26.151","Temp":"26.860605","Volt":"1.3125","Mem":"20024","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:29.337","Temp":"26.796312","Volt":"1.2","Mem":"20036","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:30.716","Temp":"26.796312","Volt":"1.3125","Mem":"20040","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:32.061","Temp":"26.860605","Volt":"1.3125","Mem":"20044","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:33.379","Temp":"26.796312","Volt":"1.2","Mem":"20056","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:34.741","Temp":"26.796312","Volt":"1.2","Mem":"20056","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:39.934","Temp":"26.796312","Volt":"1.2","Mem":"20068","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:41.317","Temp":"26.860605","Volt":"1.3125","Mem":"20076","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:42.639","Temp":"26.796312","Volt":"1.2","Mem":"20088","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:44.021","Temp":"26.860605","Volt":"1.3125","Mem":"20088","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:45.368","Temp":"26.860605","Volt":"1.3125","Mem":"20092","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:46.698","Temp":"26.796312","Volt":"1.3125","Mem":"20092","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:48.036","Temp":"26.796312","Volt":"1.2","Mem":"20092","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:49.418","Temp":"26.796312","Volt":"1.2","Mem":"20108","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:50.777","Temp":"26.796312","Volt":"1.3125","Mem":"20108","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:52.109","Temp":"26.796312","Volt":"1.3125","Mem":"20108","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:53.452","Temp":"26.796312","Volt":"1.2","Mem":"20120","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:54.782","Temp":"26.860605","Volt":"1.2","Mem":"20120","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:56.104","Temp":"26.924900","Volt":"1.3125","Mem":"20124","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:57.505","Temp":"26.732018","Volt":"1.2","Mem":"20124","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:19:58.979","Temp":"26.860605","Volt":"1.3125","Mem":"20124","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:00.378","Temp":"26.796312","Volt":"1.2","Mem":"20124","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:05.600","Temp":"26.860605","Volt":"1.3125","Mem":"20132","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:07.341","Temp":"26.796312","Volt":"1.3125","Mem":"20148","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:08.701","Temp":"26.860605","Volt":"1.2","Mem":"20164","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:10.045","Temp":"26.860605","Volt":"1.3125","Mem":"20168","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:11.537","Temp":"26.860605","Volt":"1.3125","Mem":"20168","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:12.886","Temp":"26.924900","Volt":"1.2","Mem":"20176","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:14.241","Temp":"26.924900","Volt":"1.3125","Mem":"20184","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:15.581","Temp":"26.860605","Volt":"1.3125","Mem":"20196","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:16.922","Temp":"26.860605","Volt":"1.3125","Mem":"20216","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:18.237","Temp":"26.924900","Volt":"1.2","Mem":"20216","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:19.598","Temp":"26.924900","Volt":"1.3125","Mem":"20216","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:20.947","Temp":"26.924900","Volt":"1.3125","Mem":"20216","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:22.286","Temp":"26.924900","Volt":"1.3125","Mem":"20220","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:23.637","Temp":"26.796312","Volt":"1.2","Mem":"20220","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:25.008","Temp":"26.924900","Volt":"1.3125","Mem":"20220","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:26.329","Temp":"26.924900","Volt":"1.2","Mem":"20224","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:31.522","Temp":"26.860605","Volt":"1.3125","Mem":"20228","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:32.832","Temp":"26.924900","Volt":"1.2","Mem":"20232","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:34.187","Temp":"26.989193","Volt":"1.3125","Mem":"20236","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:35.513","Temp":"26.860605","Volt":"1.3125","Mem":"20244","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:36.841","Temp":"26.924900","Volt":"1.3125","Mem":"20244","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:38.185","Temp":"26.860605","Volt":"1.2","Mem":"20244","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:39.525","Temp":"26.989193","Volt":"1.3125","Mem":"20248","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:40.837","Temp":"26.989193","Volt":"1.3125","Mem":"20252","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:42.150","Temp":"26.924900","Volt":"1.3125","Mem":"20256","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:43.490","Temp":"26.924900","Volt":"1.2","Mem":"20256","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:44.826","Temp":"26.924900","Volt":"1.3125","Mem":"20256","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:46.165","Temp":"26.860605","Volt":"1.3125","Mem":"20256","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:47.513","Temp":"26.860605","Volt":"1.2","Mem":"20256","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:48.899","Temp":"26.860605","Volt":"1.3125","Mem":"20256","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:50.243","Temp":"26.924900","Volt":"1.3125","Mem":"20264","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:51.574","Temp":"26.989193","Volt":"1.3125","Mem":"20268","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:56.719","Temp":"26.924900","Volt":"1.3125","Mem":"20268","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:58.055","Temp":"26.989193","Volt":"1.2","Mem":"20280","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:20:59.413","Temp":"26.924900","Volt":"1.3125","Mem":"20280","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:00.736","Temp":"26.989193","Volt":"1.3125","Mem":"20284","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:02.046","Temp":"26.860605","Volt":"1.3125","Mem":"20292","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:03.387","Temp":"26.924900","Volt":"1.2","Mem":"20308","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:04.746","Temp":"26.860605","Volt":"1.3125","Mem":"20312","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:06.093","Temp":"26.860605","Volt":"1.3125","Mem":"20316","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:07.529","Temp":"26.924900","Volt":"1.2","Mem":"20316","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:08.908","Temp":"26.860605","Volt":"1.3125","Mem":"20320","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:10.243","Temp":"26.860605","Volt":"1.3125","Mem":"20320","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:11.571","Temp":"26.860605","Volt":"1.3125","Mem":"20320","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:13.005","Temp":"26.924900","Volt":"1.2","Mem":"20320","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:14.379","Temp":"26.860605","Volt":"1.3125","Mem":"20320","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:15.774","Temp":"26.924900","Volt":"1.3125","Mem":"20320","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:17.117","Temp":"26.989193","Volt":"1.2","Mem":"20332","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:22.288","Temp":"26.924900","Volt":"1.3125","Mem":"20340","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:23.612","Temp":"26.924900","Volt":"1.2","Mem":"20340","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:24.986","Temp":"26.924900","Volt":"1.2","Mem":"20352","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:26.357","Temp":"26.924900","Volt":"1.3125","Mem":"20352","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:27.699","Temp":"26.860605","Volt":"1.2","Mem":"20364","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:29.068","Temp":"26.860605","Volt":"1.3125","Mem":"20368","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:30.385","Temp":"26.860605","Volt":"1.3125","Mem":"20376","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:31.709","Temp":"26.924900","Volt":"1.3125","Mem":"20392","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:33.033","Temp":"26.924900","Volt":"1.2","Mem":"20400","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:34.417","Temp":"26.924900","Volt":"1.3125","Mem":"20400","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:35.729","Temp":"26.860605","Volt":"1.3125","Mem":"20408","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:37.057","Temp":"26.924900","Volt":"1.3125","Mem":"20408","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:38.379","Temp":"26.989193","Volt":"1.2","Mem":"20408","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:39.741","Temp":"26.924900","Volt":"1.3125","Mem":"20408","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:41.088","Temp":"26.860605","Volt":"1.3125","Mem":"20408","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:42.423","Temp":"26.860605","Volt":"1.2","Mem":"20408","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:47.610","Temp":"26.924900","Volt":"1.2","Mem":"20416","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:48.989","Temp":"26.924900","Volt":"1.3125","Mem":"20416","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:50.321","Temp":"26.924900","Volt":"1.3125","Mem":"20428","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:51.665","Temp":"26.924900","Volt":"1.3125","Mem":"20436","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:53.009","Temp":"26.989193","Volt":"1.2","Mem":"20436","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:54.365","Temp":"26.924900","Volt":"1.3125","Mem":"20436","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:55.697","Temp":"26.924900","Volt":"1.3125","Mem":"20436","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:57.043","Temp":"26.924900","Volt":"1.3125","Mem":"20436","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:58.379","Temp":"26.924900","Volt":"1.2","Mem":"20436","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:21:59.744","Temp":"26.924900","Volt":"1.3125","Mem":"20436","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:01.443","Temp":"26.860605","Volt":"1.3125","Mem":"20440","CpuTemp":"47078"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:02.789","Temp":"26.924900","Volt":"1.2","Mem":"20444","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:04.144","Temp":"26.924900","Volt":"1.3125","Mem":"20444","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:06.086","Temp":"26.924900","Volt":"1.3125","Mem":"20444","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:07.430","Temp":"26.860605","Volt":"1.3125","Mem":"20444","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:08.872","Temp":"26.924900","Volt":"1.2","Mem":"20444","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:14.165","Temp":"26.860605","Volt":"1.2","Mem":"20444","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:15.636","Temp":"26.924900","Volt":"1.2","Mem":"20444","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:17.023","Temp":"26.860605","Volt":"1.3125","Mem":"20444","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:18.368","Temp":"26.860605","Volt":"1.2","Mem":"20444","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:19.718","Temp":"26.989193","Volt":"1.3125","Mem":"20444","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:21.060","Temp":"26.924900","Volt":"1.3125","Mem":"20444","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:22.391","Temp":"26.860605","Volt":"1.3125","Mem":"20444","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:24.111","Temp":"26.860605","Volt":"1.3125","Mem":"20444","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:25.458","Temp":"26.924900","Volt":"1.3125","Mem":"20444","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:26.785","Temp":"26.924900","Volt":"1.3125","Mem":"20444","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:28.135","Temp":"26.796312","Volt":"1.2","Mem":"20444","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:29.508","Temp":"26.924900","Volt":"1.3125","Mem":"20444","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:30.854","Temp":"26.796312","Volt":"1.3125","Mem":"20452","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:32.181","Temp":"26.924900","Volt":"1.3125","Mem":"20452","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:33.520","Temp":"26.860605","Volt":"1.2","Mem":"20452","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:34.901","Temp":"26.924900","Volt":"1.2","Mem":"20452","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:40.081","Temp":"26.796312","Volt":"1.3125","Mem":"20452","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:41.411","Temp":"26.796312","Volt":"1.3125","Mem":"20452","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:42.747","Temp":"26.860605","Volt":"1.2","Mem":"20452","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:44.100","Temp":"26.796312","Volt":"1.3125","Mem":"20452","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:45.439","Temp":"26.860605","Volt":"1.3125","Mem":"20452","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:46.760","Temp":"26.796312","Volt":"1.3125","Mem":"20460","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:48.442","Temp":"26.989193","Volt":"1.2","Mem":"20460","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:49.824","Temp":"26.796312","Volt":"1.3125","Mem":"20460","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:51.158","Temp":"26.860605","Volt":"1.3125","Mem":"20460","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:52.483","Temp":"26.796312","Volt":"1.2","Mem":"20460","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:53.840","Temp":"26.860605","Volt":"1.3125","Mem":"20460","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:55.176","Temp":"26.860605","Volt":"1.3125","Mem":"20460","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:56.513","Temp":"26.924900","Volt":"1.3125","Mem":"20468","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:57.858","Temp":"26.860605","Volt":"1.2","Mem":"20468","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:22:59.246","Temp":"26.796312","Volt":"1.2","Mem":"20476","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:00.611","Temp":"26.860605","Volt":"1.2","Mem":"20476","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:05.771","Temp":"26.924900","Volt":"1.3125","Mem":"20476","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:07.103","Temp":"26.796312","Volt":"1.3125","Mem":"20476","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:08.426","Temp":"26.860605","Volt":"1.2","Mem":"20476","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:09.795","Temp":"26.796312","Volt":"1.3125","Mem":"20480","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:11.146","Temp":"26.860605","Volt":"1.3125","Mem":"20480","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:12.491","Temp":"26.796312","Volt":"1.2","Mem":"20480","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:13.862","Temp":"26.860605","Volt":"1.3125","Mem":"20480","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:15.307","Temp":"26.860605","Volt":"1.3125","Mem":"20480","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:16.766","Temp":"26.860605","Volt":"1.3125","Mem":"20480","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:18.108","Temp":"26.796312","Volt":"1.2","Mem":"20480","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:19.492","Temp":"26.796312","Volt":"1.3125","Mem":"20488","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:20.842","Temp":"26.860605","Volt":"1.3125","Mem":"20488","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:22.560","Temp":"26.796312","Volt":"1.2","Mem":"20508","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:23.937","Temp":"26.860605","Volt":"1.3125","Mem":"20512","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:25.278","Temp":"26.796312","Volt":"1.3125","Mem":"20528","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:26.615","Temp":"26.860605","Volt":"1.2","Mem":"20528","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:31.807","Temp":"26.860605","Volt":"1.2","Mem":"20536","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:33.206","Temp":"26.796312","Volt":"1.2","Mem":"20548","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:34.597","Temp":"26.796312","Volt":"1.3125","Mem":"20548","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:35.950","Temp":"26.860605","Volt":"1.3125","Mem":"20548","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:37.610","Temp":"26.796312","Volt":"1.2","Mem":"20548","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:38.982","Temp":"26.796312","Volt":"1.3125","Mem":"20548","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:40.319","Temp":"26.860605","Volt":"1.3125","Mem":"20560","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:41.667","Temp":"26.796312","Volt":"1.3125","Mem":"20572","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:43.015","Temp":"26.860605","Volt":"1.2","Mem":"20572","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:44.405","Temp":"26.796312","Volt":"1.2","Mem":"20572","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:45.796","Temp":"26.924900","Volt":"1.3125","Mem":"20572","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:47.144","Temp":"26.860605","Volt":"1.3125","Mem":"20572","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:48.485","Temp":"26.860605","Volt":"1.2","Mem":"20572","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:49.840","Temp":"26.796312","Volt":"1.3125","Mem":"20572","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:51.176","Temp":"26.860605","Volt":"1.3125","Mem":"20572","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:52.512","Temp":"26.732018","Volt":"1.2","Mem":"20576","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:58.234","Temp":"26.732018","Volt":"1.2","Mem":"20576","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:23:59.610","Temp":"26.732018","Volt":"1.3125","Mem":"20576","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:00.974","Temp":"26.796312","Volt":"1.3125","Mem":"20576","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:02.317","Temp":"26.796312","Volt":"1.3125","Mem":"20576","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:03.698","Temp":"26.732018","Volt":"1.2","Mem":"20576","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:05.065","Temp":"26.732018","Volt":"1.3125","Mem":"20580","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:06.393","Temp":"26.796312","Volt":"1.3125","Mem":"20580","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:07.743","Temp":"26.732018","Volt":"1.2","Mem":"20580","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:09.145","Temp":"26.796312","Volt":"1.2","Mem":"20580","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:10.522","Temp":"26.732018","Volt":"1.2","Mem":"20580","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:11.912","Temp":"26.732018","Volt":"1.3125","Mem":"20580","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:13.252","Temp":"26.732018","Volt":"1.2","Mem":"20580","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:14.626","Temp":"26.796312","Volt":"1.2","Mem":"20580","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:16.046","Temp":"26.732018","Volt":"1.2","Mem":"20580","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:17.512","Temp":"26.796312","Volt":"1.2","Mem":"20580","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:18.980","Temp":"26.732018","Volt":"1.2","Mem":"20580","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:24.175","Temp":"26.796312","Volt":"1.2","Mem":"20580","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:25.838","Temp":"26.796312","Volt":"1.3125","Mem":"20580","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:27.168","Temp":"26.860605","Volt":"1.3125","Mem":"20580","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:28.505","Temp":"26.732018","Volt":"1.2","Mem":"20580","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:29.891","Temp":"26.732018","Volt":"1.3125","Mem":"20580","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:31.235","Temp":"26.732018","Volt":"1.3125","Mem":"20580","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:32.560","Temp":"26.860605","Volt":"1.2","Mem":"20580","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:33.928","Temp":"26.796312","Volt":"1.3125","Mem":"20580","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:35.272","Temp":"26.732018","Volt":"1.3125","Mem":"20584","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:36.606","Temp":"26.796312","Volt":"1.3125","Mem":"20592","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:37.956","Temp":"26.796312","Volt":"1.2","Mem":"20592","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:39.344","Temp":"26.732018","Volt":"1.2","Mem":"20592","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:40.716","Temp":"26.860605","Volt":"1.3125","Mem":"20592","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:42.062","Temp":"26.796312","Volt":"1.3125","Mem":"20600","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:43.410","Temp":"26.796312","Volt":"1.2","Mem":"20600","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:44.829","Temp":"26.732018","Volt":"1.2","Mem":"20600","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:49.996","Temp":"26.860605","Volt":"1.3125","Mem":"20600","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:51.343","Temp":"26.732018","Volt":"1.3125","Mem":"20600","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:52.694","Temp":"26.732018","Volt":"1.2","Mem":"20600","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:54.347","Temp":"26.732018","Volt":"1.3125","Mem":"20600","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:55.669","Temp":"26.796312","Volt":"1.3125","Mem":"20600","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:57.009","Temp":"26.732018","Volt":"1.3125","Mem":"20604","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:58.350","Temp":"26.796312","Volt":"1.2","Mem":"20604","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:24:59.743","Temp":"26.667725","Volt":"1.2","Mem":"20604","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:01.133","Temp":"26.732018","Volt":"1.2","Mem":"20604","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:02.514","Temp":"26.732018","Volt":"1.2","Mem":"20608","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:03.904","Temp":"26.796312","Volt":"1.2","Mem":"20608","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:05.300","Temp":"26.732018","Volt":"1.3125","Mem":"20620","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:06.620","Temp":"26.732018","Volt":"1.3125","Mem":"20620","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:07.954","Temp":"26.732018","Volt":"1.2","Mem":"20620","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:09.661","Temp":"26.732018","Volt":"1.2","Mem":"20620","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:11.039","Temp":"26.860605","Volt":"1.2","Mem":"20620","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:16.255","Temp":"26.732018","Volt":"1.3125","Mem":"20624","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:17.596","Temp":"26.796312","Volt":"1.2","Mem":"20624","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:19.049","Temp":"26.796312","Volt":"1.3125","Mem":"20624","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:20.495","Temp":"26.796312","Volt":"1.3125","Mem":"20624","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:21.938","Temp":"26.860605","Volt":"1.3125","Mem":"20624","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:23.274","Temp":"26.860605","Volt":"1.2","Mem":"20628","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:24.636","Temp":"26.732018","Volt":"1.3125","Mem":"20628","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:25.982","Temp":"26.732018","Volt":"1.3125","Mem":"20628","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:27.323","Temp":"26.860605","Volt":"1.3125","Mem":"20628","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:28.986","Temp":"26.796312","Volt":"1.2","Mem":"20628","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:30.339","Temp":"26.860605","Volt":"1.3125","Mem":"20632","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:32.032","Temp":"26.796312","Volt":"1.3125","Mem":"20632","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:33.381","Temp":"26.860605","Volt":"1.2","Mem":"20632","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:34.740","Temp":"26.796312","Volt":"1.3125","Mem":"20632","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:36.086","Temp":"26.796312","Volt":"1.3125","Mem":"20632","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:37.436","Temp":"26.732018","Volt":"1.2","Mem":"20648","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:42.603","Temp":"26.732018","Volt":"1.2","Mem":"20648","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:43.987","Temp":"26.603430","Volt":"1.3125","Mem":"20648","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:45.329","Temp":"26.603430","Volt":"1.3125","Mem":"20648","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:46.669","Temp":"26.667725","Volt":"1.3125","Mem":"20648","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:48.015","Temp":"26.732018","Volt":"1.2","Mem":"20648","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:49.717","Temp":"26.796312","Volt":"1.2","Mem":"20652","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:51.093","Temp":"26.732018","Volt":"1.3125","Mem":"20652","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:52.432","Temp":"26.732018","Volt":"1.3125","Mem":"20656","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:53.813","Temp":"26.667725","Volt":"1.3125","Mem":"20656","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:55.138","Temp":"26.667725","Volt":"1.3125","Mem":"20656","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:56.459","Temp":"26.667725","Volt":"1.3125","Mem":"20676","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:57.793","Temp":"26.732018","Volt":"1.2","Mem":"20676","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:25:59.148","Temp":"26.732018","Volt":"1.3125","Mem":"20688","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:00.493","Temp":"26.667725","Volt":"1.3125","Mem":"20688","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:01.843","Temp":"26.732018","Volt":"1.3125","Mem":"20688","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:03.179","Temp":"26.667725","Volt":"1.2","Mem":"20692","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:08.758","Temp":"26.732018","Volt":"1.2","Mem":"20692","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:10.119","Temp":"26.603430","Volt":"1.3125","Mem":"20692","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:11.466","Temp":"26.732018","Volt":"1.3125","Mem":"20696","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:12.798","Temp":"26.603430","Volt":"1.2","Mem":"20696","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:14.132","Temp":"26.667725","Volt":"1.3125","Mem":"20700","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:15.480","Temp":"26.667725","Volt":"1.3125","Mem":"20700","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:16.821","Temp":"26.667725","Volt":"1.3125","Mem":"20700","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:18.162","Temp":"26.667725","Volt":"1.2","Mem":"20700","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:19.630","Temp":"26.667725","Volt":"1.2","Mem":"20700","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:21.011","Temp":"26.603430","Volt":"1.3125","Mem":"20712","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:22.351","Temp":"26.667725","Volt":"1.3125","Mem":"20724","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:23.798","Temp":"26.732018","Volt":"1.3125","Mem":"20724","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:25.237","Temp":"26.603430","Volt":"1.3125","Mem":"20724","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:26.680","Temp":"26.667725","Volt":"1.3125","Mem":"20724","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:28.024","Temp":"26.667725","Volt":"1.2","Mem":"20724","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:29.405","Temp":"26.732018","Volt":"1.2","Mem":"20724","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:34.590","Temp":"26.667725","Volt":"1.3125","Mem":"20724","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:36.282","Temp":"26.667725","Volt":"1.3125","Mem":"20724","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:37.614","Temp":"26.732018","Volt":"1.2","Mem":"20724","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:39.004","Temp":"26.603430","Volt":"1.2","Mem":"20728","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:40.391","Temp":"26.667725","Volt":"1.3125","Mem":"20728","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:41.730","Temp":"26.732018","Volt":"1.3125","Mem":"20728","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:43.063","Temp":"26.667725","Volt":"1.2","Mem":"20728","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:44.444","Temp":"26.667725","Volt":"1.2","Mem":"20732","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:45.825","Temp":"26.667725","Volt":"1.2","Mem":"20732","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:47.200","Temp":"26.667725","Volt":"1.3125","Mem":"20736","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:48.534","Temp":"26.667725","Volt":"1.2","Mem":"20736","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:49.913","Temp":"26.732018","Volt":"1.3125","Mem":"20736","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:51.254","Temp":"26.603430","Volt":"1.3125","Mem":"20736","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:52.600","Temp":"26.667725","Volt":"1.2","Mem":"20736","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:54.244","Temp":"26.667725","Volt":"1.3125","Mem":"20736","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:26:55.566","Temp":"26.667725","Volt":"1.2","Mem":"20736","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:01.552","Temp":"26.732018","Volt":"1.3125","Mem":"20740","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:02.886","Temp":"26.667725","Volt":"1.2","Mem":"20740","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:04.243","Temp":"26.667725","Volt":"1.3125","Mem":"20740","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:05.580","Temp":"26.603430","Volt":"1.3125","Mem":"20740","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:06.931","Temp":"26.603430","Volt":"1.3125","Mem":"20744","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:08.273","Temp":"26.603430","Volt":"1.2","Mem":"20744","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:09.641","Temp":"26.667725","Volt":"1.2","Mem":"20744","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:10.1000","Temp":"26.603430","Volt":"1.3125","Mem":"20744","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:12.342","Temp":"26.667725","Volt":"1.3125","Mem":"20744","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:13.710","Temp":"26.603430","Volt":"1.3125","Mem":"20744","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:15.058","Temp":"26.603430","Volt":"1.3125","Mem":"20744","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:16.383","Temp":"26.603430","Volt":"1.3125","Mem":"20744","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:17.707","Temp":"26.603430","Volt":"1.2","Mem":"20744","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:19.085","Temp":"26.603430","Volt":"1.3125","Mem":"20744","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:20.519","Temp":"26.667725","Volt":"1.3125","Mem":"20744","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:21.863","Temp":"26.603430","Volt":"1.2","Mem":"20744","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:27.055","Temp":"26.603430","Volt":"1.3125","Mem":"20744","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:28.483","Temp":"26.603430","Volt":"1.2","Mem":"20744","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:29.995","Temp":"26.603430","Volt":"1.3125","Mem":"20744","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:31.437","Temp":"26.539137","Volt":"1.3125","Mem":"20744","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:32.774","Temp":"26.603430","Volt":"1.2","Mem":"20744","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:34.145","Temp":"26.603430","Volt":"1.2","Mem":"20748","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:35.531","Temp":"26.539137","Volt":"1.2","Mem":"20752","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:36.910","Temp":"26.539137","Volt":"1.3125","Mem":"20752","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:38.253","Temp":"26.603430","Volt":"1.2","Mem":"20752","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:39.634","Temp":"26.539137","Volt":"1.2","Mem":"20752","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:41.019","Temp":"26.539137","Volt":"1.3125","Mem":"20752","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:42.362","Temp":"26.603430","Volt":"1.3125","Mem":"20752","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:43.737","Temp":"26.539137","Volt":"1.2","Mem":"20752","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:45.114","Temp":"26.539137","Volt":"1.2","Mem":"20752","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:46.504","Temp":"26.539137","Volt":"1.3125","Mem":"20752","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:47.839","Temp":"26.539137","Volt":"1.3125","Mem":"20752","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:53.017","Temp":"26.539137","Volt":"1.2","Mem":"20752","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:54.396","Temp":"26.539137","Volt":"1.3125","Mem":"20752","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:55.727","Temp":"26.539137","Volt":"1.3125","Mem":"20752","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:57.125","Temp":"26.603430","Volt":"1.3125","Mem":"20752","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:58.470","Temp":"26.539137","Volt":"1.2","Mem":"20756","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:27:59.857","Temp":"26.539137","Volt":"1.3125","Mem":"20756","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:01.185","Temp":"26.539137","Volt":"1.3125","Mem":"20756","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:02.525","Temp":"26.539137","Volt":"1.2","Mem":"20768","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:04.214","Temp":"26.539137","Volt":"1.3125","Mem":"20768","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:05.562","Temp":"26.539137","Volt":"1.3125","Mem":"20768","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:06.903","Temp":"26.603430","Volt":"1.3125","Mem":"20772","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:08.247","Temp":"26.539137","Volt":"1.2","Mem":"20780","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:09.621","Temp":"26.539137","Volt":"1.2","Mem":"20780","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:11.002","Temp":"26.539137","Volt":"1.2","Mem":"20780","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:12.376","Temp":"26.603430","Volt":"1.2","Mem":"20780","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:13.728","Temp":"26.539137","Volt":"1.2","Mem":"20780","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:18.910","Temp":"26.539137","Volt":"1.2","Mem":"20780","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:20.291","Temp":"26.539137","Volt":"1.3125","Mem":"20780","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:21.740","Temp":"26.539137","Volt":"1.3125","Mem":"20780","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:23.083","Temp":"26.539137","Volt":"1.2","Mem":"20780","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:24.453","Temp":"26.539137","Volt":"1.3125","Mem":"20780","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:25.908","Temp":"26.539137","Volt":"1.3125","Mem":"20780","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:27.245","Temp":"26.539137","Volt":"1.3125","Mem":"20784","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:28.576","Temp":"26.539137","Volt":"1.2","Mem":"20784","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:29.964","Temp":"26.539137","Volt":"1.2","Mem":"20784","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:31.351","Temp":"26.539137","Volt":"1.2","Mem":"20784","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:32.830","Temp":"26.539137","Volt":"1.2","Mem":"20784","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:34.298","Temp":"26.539137","Volt":"1.3125","Mem":"20784","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:35.641","Temp":"26.539137","Volt":"1.3125","Mem":"20784","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:36.981","Temp":"26.539137","Volt":"1.3125","Mem":"20784","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:38.347","Temp":"26.539137","Volt":"1.2","Mem":"20784","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:39.704","Temp":"26.539137","Volt":"1.2","Mem":"20788","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:44.896","Temp":"26.539137","Volt":"1.2","Mem":"20788","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:46.259","Temp":"26.539137","Volt":"1.3125","Mem":"20792","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:47.613","Temp":"26.539137","Volt":"1.2","Mem":"20792","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:48.993","Temp":"26.539137","Volt":"1.2","Mem":"20800","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:50.374","Temp":"26.539137","Volt":"1.3125","Mem":"20800","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:51.717","Temp":"26.539137","Volt":"1.3125","Mem":"20804","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:53.049","Temp":"26.539137","Volt":"1.2","Mem":"20804","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:54.437","Temp":"26.539137","Volt":"1.2","Mem":"20804","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:55.821","Temp":"26.539137","Volt":"1.2","Mem":"20804","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:57.195","Temp":"26.539137","Volt":"1.2","Mem":"20804","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:28:58.546","Temp":"26.539137","Volt":"1.2","Mem":"20808","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:00.345","Temp":"26.539137","Volt":"1.3125","Mem":"20812","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:01.691","Temp":"26.539137","Volt":"1.3125","Mem":"20812","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:03.025","Temp":"26.539137","Volt":"1.2","Mem":"20812","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:04.415","Temp":"26.539137","Volt":"1.3125","Mem":"20812","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:05.758","Temp":"26.539137","Volt":"1.2","Mem":"20812","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:10.950","Temp":"26.539137","Volt":"1.2","Mem":"20816","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:12.338","Temp":"26.539137","Volt":"1.2","Mem":"20816","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:13.707","Temp":"26.539137","Volt":"1.3125","Mem":"20816","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:15.045","Temp":"26.539137","Volt":"1.3125","Mem":"20816","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:16.395","Temp":"26.539137","Volt":"1.3125","Mem":"20816","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:17.734","Temp":"26.539137","Volt":"1.2","Mem":"20816","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:19.110","Temp":"26.539137","Volt":"1.3125","Mem":"20824","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:20.443","Temp":"26.539137","Volt":"1.3125","Mem":"20828","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:21.760","Temp":"26.539137","Volt":"1.3125","Mem":"20828","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:23.207","Temp":"26.539137","Volt":"1.2","Mem":"20828","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:24.572","Temp":"26.539137","Volt":"1.3125","Mem":"20832","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:25.918","Temp":"26.539137","Volt":"1.3125","Mem":"20832","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:27.254","Temp":"26.539137","Volt":"1.3125","Mem":"20832","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:28.602","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:29.994","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:31.367","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:36.646","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:38.126","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:39.507","Temp":"26.539137","Volt":"1.3125","Mem":"20832","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:40.841","Temp":"26.539137","Volt":"1.3125","Mem":"20832","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:42.185","Temp":"26.539137","Volt":"1.3125","Mem":"20832","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:43.523","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:44.888","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:46.238","Temp":"26.539137","Volt":"1.3125","Mem":"20832","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:47.566","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:48.949","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:50.332","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:51.705","Temp":"26.539137","Volt":"1.3125","Mem":"20832","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:53.045","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:54.414","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:55.792","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:29:57.138","Temp":"26.539137","Volt":"1.3125","Mem":"20832","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:02.263","Temp":"26.539137","Volt":"1.3125","Mem":"20832","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:03.606","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:05.013","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:06.749","Temp":"26.539137","Volt":"1.2","Mem":"20832","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:08.137","Temp":"26.539137","Volt":"1.2","Mem":"20836","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:09.805","Temp":"26.539137","Volt":"1.3125","Mem":"20836","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:11.146","Temp":"26.539137","Volt":"1.3125","Mem":"20852","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:12.481","Temp":"26.539137","Volt":"1.2","Mem":"20852","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:13.840","Temp":"26.539137","Volt":"1.3125","Mem":"20856","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:15.176","Temp":"26.539137","Volt":"1.3125","Mem":"20856","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:16.520","Temp":"26.539137","Volt":"1.3125","Mem":"20856","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:17.852","Temp":"26.539137","Volt":"1.2","Mem":"20860","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:19.215","Temp":"26.539137","Volt":"1.3125","Mem":"20860","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:20.545","Temp":"26.539137","Volt":"1.3125","Mem":"20860","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:21.875","Temp":"26.539137","Volt":"1.3125","Mem":"20860","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:23.209","Temp":"26.539137","Volt":"1.2","Mem":"20860","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:28.990","Temp":"26.539137","Volt":"1.3125","Mem":"20860","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:30.371","Temp":"26.539137","Volt":"1.3125","Mem":"20864","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:31.724","Temp":"26.539137","Volt":"1.3125","Mem":"20864","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:33.048","Temp":"26.539137","Volt":"1.2","Mem":"20864","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:34.403","Temp":"26.539137","Volt":"1.3125","Mem":"20864","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:35.744","Temp":"26.539137","Volt":"1.3125","Mem":"20868","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:37.122","Temp":"26.539137","Volt":"1.3125","Mem":"20868","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:38.567","Temp":"26.539137","Volt":"1.2","Mem":"20868","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:39.946","Temp":"26.539137","Volt":"1.2","Mem":"20868","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:41.337","Temp":"26.539137","Volt":"1.2","Mem":"20868","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:43.062","Temp":"26.539137","Volt":"1.2","Mem":"20876","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:44.445","Temp":"26.539137","Volt":"1.2","Mem":"20876","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:45.835","Temp":"26.539137","Volt":"1.2","Mem":"20876","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:47.241","Temp":"26.539137","Volt":"1.3125","Mem":"20880","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:48.580","Temp":"26.539137","Volt":"1.2","Mem":"20876","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:49.916","Temp":"26.539137","Volt":"1.2","Mem":"20880","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:55.110","Temp":"26.539137","Volt":"1.3125","Mem":"20880","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:56.450","Temp":"26.539137","Volt":"1.3125","Mem":"20880","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:57.769","Temp":"26.539137","Volt":"1.2","Mem":"20892","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:30:59.137","Temp":"26.539137","Volt":"1.3125","Mem":"20896","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:00.476","Temp":"26.539137","Volt":"1.3125","Mem":"20900","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:01.806","Temp":"26.539137","Volt":"1.3125","Mem":"20904","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:03.137","Temp":"26.539137","Volt":"1.2","Mem":"20904","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:04.505","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:05.808","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:07.159","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:11.525","Temp":"26.539137","Volt":"1.2","Mem":"20908","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:12.902","Temp":"26.539137","Volt":"1.2","Mem":"20908","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:14.279","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:15.619","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:16.967","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:18.315","Temp":"26.539137","Volt":"1.2","Mem":"20908","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:23.471","Temp":"26.539137","Volt":"1.2","Mem":"20908","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:24.825","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:26.148","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:27.487","Temp":"26.539137","Volt":"1.2","Mem":"20908","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:28.855","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:30.643","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:32.031","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:33.368","Temp":"26.539137","Volt":"1.2","Mem":"20908","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:34.710","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:36.039","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:37.361","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:38.722","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:40.143","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:41.568","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:43.007","Temp":"26.539137","Volt":"1.2","Mem":"20908","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:44.473","Temp":"26.539137","Volt":"1.2","Mem":"20908","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:49.794","Temp":"26.539137","Volt":"1.2","Mem":"20908","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:51.246","Temp":"26.539137","Volt":"1.3125","Mem":"20908","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:52.668","Temp":"26.539137","Volt":"1.2","Mem":"20912","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:54.143","Temp":"26.539137","Volt":"1.2","Mem":"20912","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:55.608","Temp":"26.539137","Volt":"1.3125","Mem":"20912","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:57.039","Temp":"26.539137","Volt":"1.3125","Mem":"20912","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:58.462","Temp":"26.539137","Volt":"1.2","Mem":"20912","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:31:59.834","Temp":"26.539137","Volt":"1.2","Mem":"20916","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:01.214","Temp":"26.539137","Volt":"1.3125","Mem":"20916","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:02.549","Temp":"26.539137","Volt":"1.2","Mem":"20916","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:03.932","Temp":"26.539137","Volt":"1.2","Mem":"20916","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:05.298","Temp":"26.539137","Volt":"1.3125","Mem":"20916","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:06.620","Temp":"26.539137","Volt":"1.3125","Mem":"20916","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:07.942","Temp":"26.539137","Volt":"1.2","Mem":"20916","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:09.321","Temp":"26.539137","Volt":"1.2","Mem":"20916","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:10.727","Temp":"26.539137","Volt":"1.2","Mem":"20916","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:15.918","Temp":"26.539137","Volt":"1.3125","Mem":"20916","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:17.611","Temp":"26.539137","Volt":"1.2","Mem":"20916","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:18.987","Temp":"26.539137","Volt":"1.3125","Mem":"20916","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:20.323","Temp":"26.539137","Volt":"1.3125","Mem":"20916","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:21.646","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:22.967","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:24.345","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:25.731","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:27.103","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:28.434","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:29.822","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:31.235","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:32.574","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:33.979","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:35.326","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:36.670","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:41.863","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:43.195","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:44.537","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:46.165","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:47.479","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:48.832","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:50.167","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:51.488","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:52.816","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:54.189","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:55.536","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:56.883","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:58.216","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:32:59.697","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:01.028","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:02.346","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:07.477","Temp":"26.539137","Volt":"1.2","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:08.835","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:10.166","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"47078"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:11.509","Temp":"26.539137","Volt":"1.3125","Mem":"20920","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:12.837","Temp":"26.539137","Volt":"1.2","Mem":"20928","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:14.509","Temp":"26.539137","Volt":"1.3125","Mem":"20928","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:15.853","Temp":"26.539137","Volt":"1.3125","Mem":"20928","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:17.167","Temp":"26.539137","Volt":"1.3125","Mem":"20928","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:18.498","Temp":"26.539137","Volt":"1.2","Mem":"20928","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:19.882","Temp":"26.539137","Volt":"1.2","Mem":"20928","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:21.227","Temp":"26.539137","Volt":"1.3125","Mem":"20928","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:22.865","Temp":"26.539137","Volt":"1.2","Mem":"20932","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:24.243","Temp":"26.539137","Volt":"1.2","Mem":"20932","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:25.604","Temp":"26.539137","Volt":"1.3125","Mem":"20932","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:26.907","Temp":"26.539137","Volt":"1.3125","Mem":"20932","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:28.251","Temp":"26.539137","Volt":"1.3125","Mem":"20932","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:33.465","Temp":"26.539137","Volt":"1.2","Mem":"20932","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:37.822","Temp":"26.539137","Volt":"1.2","Mem":"20932","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:39.200","Temp":"26.539137","Volt":"1.3125","Mem":"20932","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:40.527","Temp":"26.539137","Volt":"1.3125","Mem":"20932","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:41.860","Temp":"26.539137","Volt":"1.3125","Mem":"20936","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:43.207","Temp":"26.539137","Volt":"1.2","Mem":"20940","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:44.595","Temp":"26.539137","Volt":"1.3125","Mem":"20940","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:45.923","Temp":"26.539137","Volt":"1.3125","Mem":"20940","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:47.267","Temp":"26.539137","Volt":"1.3125","Mem":"20940","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:48.584","Temp":"26.539137","Volt":"1.2","Mem":"20940","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:49.920","Temp":"26.539137","Volt":"1.3125","Mem":"20944","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:51.600","Temp":"26.539137","Volt":"1.3125","Mem":"20944","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:52.940","Temp":"26.539137","Volt":"1.2","Mem":"20948","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:54.309","Temp":"26.539137","Volt":"1.3125","Mem":"20948","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:55.644","Temp":"26.539137","Volt":"1.3125","Mem":"20948","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:33:56.989","Temp":"26.539137","Volt":"1.2","Mem":"20948","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:02.835","Temp":"26.539137","Volt":"1.2","Mem":"20948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:04.304","Temp":"26.539137","Volt":"1.3125","Mem":"20948","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:05.737","Temp":"26.539137","Volt":"1.3125","Mem":"20948","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:07.084","Temp":"26.539137","Volt":"1.3125","Mem":"20948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:08.421","Temp":"26.539137","Volt":"1.2","Mem":"20948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:10.110","Temp":"26.539137","Volt":"1.2","Mem":"20948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:14.503","Temp":"26.539137","Volt":"1.3125","Mem":"20948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:15.824","Temp":"26.539137","Volt":"1.3125","Mem":"20948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:17.163","Temp":"26.539137","Volt":"1.3125","Mem":"20952","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:18.505","Temp":"26.539137","Volt":"1.2","Mem":"20952","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:19.876","Temp":"26.539137","Volt":"1.3125","Mem":"20952","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:21.218","Temp":"26.539137","Volt":"1.3125","Mem":"20952","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:22.555","Temp":"26.539137","Volt":"1.2","Mem":"20952","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:23.934","Temp":"26.539137","Volt":"1.2","Mem":"20952","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:25.313","Temp":"26.539137","Volt":"1.3125","Mem":"20952","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:26.655","Temp":"26.539137","Volt":"1.2","Mem":"20952","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:31.851","Temp":"26.539137","Volt":"1.3125","Mem":"20952","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:33.179","Temp":"26.539137","Volt":"1.2","Mem":"20952","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:34.626","Temp":"26.539137","Volt":"1.3125","Mem":"20948","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:35.946","Temp":"26.539137","Volt":"1.3125","Mem":"20948","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:37.289","Temp":"26.539137","Volt":"1.3125","Mem":"20948","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:38.638","Temp":"26.539137","Volt":"1.2","Mem":"20948","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:40.147","Temp":"26.539137","Volt":"1.3125","Mem":"20948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:41.487","Temp":"26.474844","Volt":"1.3125","Mem":"20948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:42.812","Temp":"26.539137","Volt":"1.2","Mem":"20948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:44.196","Temp":"26.474844","Volt":"1.2","Mem":"20948","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:45.518","Temp":"26.474844","Volt":"1.3125","Mem":"20948","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:46.849","Temp":"26.474844","Volt":"1.3125","Mem":"20948","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:48.187","Temp":"26.539137","Volt":"1.2","Mem":"20948","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:49.516","Temp":"26.539137","Volt":"1.3125","Mem":"20960","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:50.860","Temp":"26.539137","Volt":"1.3125","Mem":"20960","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:52.197","Temp":"26.539137","Volt":"1.2","Mem":"20960","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:57.390","Temp":"26.474844","Volt":"1.3125","Mem":"20960","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:34:58.757","Temp":"26.539137","Volt":"1.3125","Mem":"20960","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:00.100","Temp":"26.474844","Volt":"1.3125","Mem":"20960","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:01.437","Temp":"26.539137","Volt":"1.3125","Mem":"20960","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:02.846","Temp":"26.474844","Volt":"1.2","Mem":"20960","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:04.235","Temp":"26.474844","Volt":"1.2","Mem":"20964","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:05.608","Temp":"26.474844","Volt":"1.3125","Mem":"20964","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:07.037","Temp":"26.474844","Volt":"1.3125","Mem":"20964","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:08.371","Temp":"26.539137","Volt":"1.2","Mem":"20964","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:09.754","Temp":"26.474844","Volt":"1.2","Mem":"20964","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:11.123","Temp":"26.474844","Volt":"1.2","Mem":"20964","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:12.663","Temp":"26.474844","Volt":"1.2","Mem":"20968","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:14.044","Temp":"26.539137","Volt":"1.2","Mem":"20968","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:15.443","Temp":"26.474844","Volt":"1.2","Mem":"20972","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:16.822","Temp":"26.474844","Volt":"1.2","Mem":"20972","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:18.210","Temp":"26.474844","Volt":"1.2","Mem":"20964","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:23.384","Temp":"26.474844","Volt":"1.2","Mem":"20964","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:24.745","Temp":"26.474844","Volt":"1.3125","Mem":"20964","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:26.080","Temp":"26.539137","Volt":"1.3125","Mem":"20964","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:27.730","Temp":"26.539137","Volt":"1.2","Mem":"20968","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:29.118","Temp":"26.474844","Volt":"1.3125","Mem":"20968","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:30.445","Temp":"26.410549","Volt":"1.3125","Mem":"20968","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:31.786","Temp":"26.474844","Volt":"1.3125","Mem":"20968","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:33.120","Temp":"26.474844","Volt":"1.2","Mem":"20968","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:34.488","Temp":"26.539137","Volt":"1.3125","Mem":"20968","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:35.836","Temp":"26.539137","Volt":"1.3125","Mem":"20968","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:37.176","Temp":"26.474844","Volt":"1.3125","Mem":"20968","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:38.512","Temp":"26.474844","Volt":"1.2","Mem":"20968","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:39.892","Temp":"26.474844","Volt":"1.3125","Mem":"20968","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:41.240","Temp":"26.474844","Volt":"1.3125","Mem":"20968","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:42.590","Temp":"26.474844","Volt":"1.2","Mem":"20968","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:43.952","Temp":"26.474844","Volt":"1.2","Mem":"20968","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:49.134","Temp":"26.474844","Volt":"1.2","Mem":"20968","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:50.808","Temp":"26.410549","Volt":"1.3125","Mem":"20968","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:52.145","Temp":"26.474844","Volt":"1.3125","Mem":"20968","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:53.488","Temp":"26.474844","Volt":"1.2","Mem":"20968","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:54.836","Temp":"26.474844","Volt":"1.3125","Mem":"20968","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:56.181","Temp":"26.410549","Volt":"1.3125","Mem":"20968","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:57.524","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:35:58.902","Temp":"26.474844","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:00.233","Temp":"26.474844","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:01.581","Temp":"26.474844","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:02.910","Temp":"26.474844","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:04.366","Temp":"26.474844","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:05.699","Temp":"26.474844","Volt":"1.3125","Mem":"20980","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:07.048","Temp":"26.474844","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:08.471","Temp":"26.474844","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:09.935","Temp":"26.474844","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:15.210","Temp":"26.474844","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:16.547","Temp":"26.410549","Volt":"1.3125","Mem":"20984","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:17.885","Temp":"26.474844","Volt":"1.2","Mem":"20984","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:19.237","Temp":"26.410549","Volt":"1.3125","Mem":"20984","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:20.580","Temp":"26.474844","Volt":"1.3125","Mem":"20984","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:21.916","Temp":"26.474844","Volt":"1.3125","Mem":"20996","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:23.257","Temp":"26.410549","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:24.649","Temp":"26.474844","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:26.027","Temp":"26.474844","Volt":"1.3125","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:27.368","Temp":"26.474844","Volt":"1.3125","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:28.740","Temp":"26.410549","Volt":"1.2","Mem":"20996","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:30.100","Temp":"26.410549","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:31.466","Temp":"26.410549","Volt":"1.3125","Mem":"20996","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:32.805","Temp":"26.474844","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:34.200","Temp":"26.410549","Volt":"1.3125","Mem":"20996","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:35.544","Temp":"26.410549","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:40.716","Temp":"26.474844","Volt":"1.3125","Mem":"20996","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:42.065","Temp":"26.410549","Volt":"1.3125","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:43.408","Temp":"26.410549","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:45.107","Temp":"26.410549","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:46.802","Temp":"26.410549","Volt":"1.3125","Mem":"20996","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:48.150","Temp":"26.410549","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:49.514","Temp":"26.410549","Volt":"1.3125","Mem":"20996","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:50.849","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:52.178","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:53.509","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:54.882","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:56.261","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:57.608","Temp":"26.474844","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:36:58.989","Temp":"26.474844","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:00.368","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:01.694","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:06.806","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:08.150","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:09.510","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:11.189","Temp":"26.474844","Volt":"1.3125","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:12.531","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:13.904","Temp":"26.474844","Volt":"1.3125","Mem":"20980","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:18.248","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:19.715","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:21.173","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:22.505","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:23.881","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:25.213","Temp":"26.346256","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:26.556","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:27.898","Temp":"26.539137","Volt":"1.2","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:29.251","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:30.577","Temp":"26.474844","Volt":"1.2","Mem":"20980","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:35.734","Temp":"26.474844","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:37.070","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:38.396","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:39.769","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:41.147","Temp":"26.474844","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:42.515","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:43.899","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:45.285","Temp":"26.474844","Volt":"1.3125","Mem":"20980","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:46.621","Temp":"26.474844","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:47.938","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:49.311","Temp":"26.346256","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:50.649","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:51.990","Temp":"26.346256","Volt":"1.3125","Mem":"20980","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:53.311","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:54.688","Temp":"26.474844","Volt":"1.2","Mem":"20980","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:37:56.041","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:01.204","Temp":"26.410549","Volt":"1.3125","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:02.550","Temp":"26.410549","Volt":"1.2","Mem":"20980","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:03.918","Temp":"26.346256","Volt":"1.3125","Mem":"20984","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:05.249","Temp":"26.410549","Volt":"1.3125","Mem":"20992","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:06.596","Temp":"26.346256","Volt":"1.3125","Mem":"20996","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:07.930","Temp":"26.346256","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:09.294","Temp":"26.346256","Volt":"1.3125","Mem":"20996","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:10.623","Temp":"26.346256","Volt":"1.3125","Mem":"20996","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:11.960","Temp":"26.410549","Volt":"1.3125","Mem":"20996","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:13.270","Temp":"26.410549","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:14.655","Temp":"26.410549","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:16.036","Temp":"26.410549","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:17.419","Temp":"26.410549","Volt":"1.2","Mem":"20996","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:18.798","Temp":"26.346256","Volt":"1.2","Mem":"21000","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:20.186","Temp":"26.346256","Volt":"1.3125","Mem":"21000","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:21.597","Temp":"26.410549","Volt":"1.2","Mem":"21000","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:26.804","Temp":"26.346256","Volt":"1.3125","Mem":"21000","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:31.278","Temp":"26.346256","Volt":"1.3125","Mem":"21000","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:32.696","Temp":"26.281961","Volt":"1.2","Mem":"21000","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:34.131","Temp":"26.474844","Volt":"1.3125","Mem":"21000","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:35.550","Temp":"26.346256","Volt":"1.3125","Mem":"21004","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:36.924","Temp":"26.346256","Volt":"1.3125","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:38.271","Temp":"26.410549","Volt":"1.2","Mem":"21004","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:39.650","Temp":"26.410549","Volt":"1.2","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:41.005","Temp":"26.346256","Volt":"1.3125","Mem":"21004","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:42.344","Temp":"26.346256","Volt":"1.3125","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:43.695","Temp":"26.346256","Volt":"1.3125","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:45.022","Temp":"26.410549","Volt":"1.3125","Mem":"21004","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:46.373","Temp":"26.346256","Volt":"1.3125","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:47.698","Temp":"26.346256","Volt":"1.2","Mem":"21004","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:49.117","Temp":"26.346256","Volt":"1.3125","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:50.451","Temp":"26.346256","Volt":"1.2","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:55.612","Temp":"26.346256","Volt":"1.3125","Mem":"21004","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:56.949","Temp":"26.346256","Volt":"1.3125","Mem":"21004","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:58.256","Temp":"26.410549","Volt":"1.2","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:38:59.602","Temp":"26.346256","Volt":"1.2","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:00.988","Temp":"26.410549","Volt":"1.3125","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:02.320","Temp":"26.410549","Volt":"1.3125","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:03.671","Temp":"26.410549","Volt":"1.2","Mem":"21004","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:05.449","Temp":"26.346256","Volt":"1.2","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:06.974","Temp":"26.346256","Volt":"1.2","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:08.350","Temp":"26.410549","Volt":"1.2","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:09.712","Temp":"26.410549","Volt":"1.3125","Mem":"21004","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:11.038","Temp":"26.346256","Volt":"1.3125","Mem":"21004","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:12.387","Temp":"26.346256","Volt":"1.3125","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:13.760","Temp":"26.410549","Volt":"1.3125","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:15.102","Temp":"26.346256","Volt":"1.3125","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:16.446","Temp":"26.410549","Volt":"1.2","Mem":"21004","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:21.623","Temp":"26.346256","Volt":"1.2","Mem":"21008","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:23.080","Temp":"26.346256","Volt":"1.2","Mem":"21008","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:24.425","Temp":"26.346256","Volt":"1.3125","Mem":"21008","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:25.770","Temp":"26.410549","Volt":"1.3125","Mem":"21008","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:27.102","Temp":"26.346256","Volt":"1.3125","Mem":"21008","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:28.441","Temp":"26.281961","Volt":"1.2","Mem":"21008","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:29.903","Temp":"26.410549","Volt":"1.3125","Mem":"21008","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:31.239","Temp":"26.346256","Volt":"1.3125","Mem":"21012","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:32.568","Temp":"26.346256","Volt":"1.2","Mem":"21012","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:33.899","Temp":"26.410549","Volt":"1.3125","Mem":"21012","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:35.232","Temp":"26.281961","Volt":"1.3125","Mem":"21012","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:36.558","Temp":"26.281961","Volt":"1.3125","Mem":"21012","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:37.883","Temp":"26.346256","Volt":"1.2","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:39.231","Temp":"26.346256","Volt":"1.3125","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:40.561","Temp":"26.346256","Volt":"1.3125","Mem":"21020","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:41.890","Temp":"26.281961","Volt":"1.2","Mem":"21020","CpuTemp":"44925"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:47.621","Temp":"26.346256","Volt":"1.2","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:49.002","Temp":"26.346256","Volt":"1.2","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:50.390","Temp":"26.346256","Volt":"1.3125","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:51.712","Temp":"26.346256","Volt":"1.3125","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:53.061","Temp":"26.346256","Volt":"1.2","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:54.446","Temp":"26.346256","Volt":"1.2","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:56.184","Temp":"26.346256","Volt":"1.3125","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:57.517","Temp":"26.346256","Volt":"1.2","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:39:58.881","Temp":"26.346256","Volt":"1.3125","Mem":"21020","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:00.232","Temp":"26.281961","Volt":"1.3125","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:01.559","Temp":"26.346256","Volt":"1.3125","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:02.882","Temp":"26.410549","Volt":"1.2","Mem":"21020","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:04.247","Temp":"26.346256","Volt":"1.3125","Mem":"21024","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:05.589","Temp":"26.346256","Volt":"1.3125","Mem":"21024","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:06.928","Temp":"26.346256","Volt":"1.3125","Mem":"21024","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:08.281","Temp":"26.346256","Volt":"1.2","Mem":"21024","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:13.454","Temp":"26.281961","Volt":"1.2","Mem":"21024","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:14.814","Temp":"26.410549","Volt":"1.3125","Mem":"21024","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:16.136","Temp":"26.346256","Volt":"1.3125","Mem":"21024","CpuTemp":"46540"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:17.477","Temp":"26.410549","Volt":"1.2","Mem":"21024","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:18.821","Temp":"26.346256","Volt":"1.3125","Mem":"21024","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:20.180","Temp":"26.346256","Volt":"1.3125","Mem":"21024","CpuTemp":"46002"}
+#<Net::HTTPNoContent 204 No Content readbody=true>
+{"DateAndTime":"2016/06/12 16:40:21.505","Temp":"26.281961","Volt":"1.3125","Mem":"21024","CpuTemp":"45464"}
+#<Net::HTTPNoContent 204 No Content readbody=true>

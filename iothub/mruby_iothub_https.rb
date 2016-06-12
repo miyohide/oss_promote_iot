@@ -5,7 +5,7 @@ REQUEST_PATH = "devices/#{DEVICE_NAME}/messages/events?api-version=2015-08-15-pr
 
 uri_with_port = "https://#{HOST_NAME}:443/#{REQUEST_PATH}"
 
-expiry = Time.now.to_i  + 600
+expiry = Time.now.to_i  + 60 * 60
 s = "#{HOST_NAME}/devices/#{DEVICE_NAME}"
 raw = Digest::HMAC.digest("#{s}\n#{expiry}",
                           Base64.decode(SHARED_ACCESS_KEY),
@@ -18,15 +18,29 @@ sas_header = format("SharedAccessSignature sig=%s&se=%s&sr=%s",
 srand(Time.now.to_i)
 
 http = HttpRequest.new
-payload = JSON::stringify(
-            {DateAndTime: Time.now.strftime("%Y/%m/%d %H:%M:%S.%L"),
-              Temp: Random::rand(30) + Random::rand,
-              Humidity: Random::rand(70) + Random::rand})
+1_000.times do
+  temp = `./temper`
+  temp.chomp!
+  volt = `/opt/vc/bin/vcgencmd measure_volts core`
+  volt = volt.split("=").last.to_f.to_s
+  mem  = `ps -o rss= -p #{Process.pid}`.to_i.to_s
+  cpu_temp = `cat /sys/class/thermal/thermal_zone0/temp`
+  cpu_temp.chomp!
 
-response = http.post(uri_with_port, payload, {
-  "Content-Type" => "application/json",
-  "Content-Length" => payload.length.to_s,
-  "Authorization" => sas_header
+  payload = JSON::stringify(
+    {DateAndTime: Time.now.strftime("%Y/%m/%d %H:%M:%S.%L"),
+      Temp: temp,
+      Volt: volt,
+      Mem: mem,
+      CpuTemp: cpu_temp})
+  puts payload.inspect
+  response = http.post(uri_with_port, payload, {
+      "Content-Type" => "application/json",
+      "Content-Length" => payload.length.to_s,
+      "Authorization" => sas_header
   })
 
-puts response.inspect
+  puts response.inspect
+  Sleep::sleep(1)
+end
+
