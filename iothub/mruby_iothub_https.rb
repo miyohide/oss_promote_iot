@@ -15,7 +15,6 @@ sas_header = format("SharedAccessSignature sig=%s&se=%s&sr=%s",
                     signature,
                     expiry,
                     "#{HOST_NAME}/devices/#{DEVICE_NAME}")
-srand(Time.now.to_i)
 
 http = HttpRequest.new
 1_000.times do
@@ -43,4 +42,3 @@ http = HttpRequest.new
   puts response.inspect
   Sleep::sleep(1)
 end
-
