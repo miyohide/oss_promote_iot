@@ -1,5 +1,15 @@
 def gem_config(conf)
-  #conf.gembox 'default'
+  conf.gembox 'default'
+  conf.gem github: 'mattn/mruby-json'
+  conf.gem github: 'mattn/mruby-base64'
+  conf.gem github: 'mattn/mruby-http'
+  conf.gem github: 'iij/mruby-digest'
+  conf.gem github: 'matsumoto-r/mruby-httprequest'
+  conf.gem github: 'monochromegane/mruby-time-strftime'
+  conf.gem github: 'luisbebop/mruby-polarssl'
+  conf.gem github: 'iij/mruby-env'
+  conf.gem github: 'matsumoto-r/mruby-sleep'
+  conf.gem github: 'iij/mruby-process'
 
   # be sure to include this gem (the cli app)
   conf.gem File.expand_path(File.dirname(__FILE__))
