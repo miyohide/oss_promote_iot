@@ -36,8 +36,6 @@ request = Net::HTTP::Post.new(
   }
 )
 
-srand(Time.now.to_i)
-
 1_000.times do
   now_time = Time.now.instance_eval { '%s.%03d' % [strftime('%Y/%m/%d %H:%M:%S'), (usec / 1000.0).round]}
   temp = `./temper`
