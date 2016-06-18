@@ -31,7 +31,8 @@ http = HttpRequest.new
       Temp: temp,
       Volt: volt,
       Mem: mem,
-      CpuTemp: cpu_temp})
+      CpuTemp: cpu_temp,
+      Platform: "mruby"})
   puts payload.inspect
   response = http.post(uri_with_port, payload, {
       "Content-Type" => "application/json",
