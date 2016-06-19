@@ -45,7 +45,7 @@ request = Net::HTTP::Post.new(
   mem  = `ps -o rss= -p #{Process.pid}`.to_i
   cpu_temp = `cat /sys/class/thermal/thermal_zone0/temp`
   cpu_temp.chomp!
-  payload = {DateAndTime: now_time, Temp: temp, Volt: volt, Mem: mem, CpuTemp: cpu_temp}.to_json
+  payload = {DateAndTime: now_time, Temp: temp, Volt: volt, Mem: mem, CpuTemp: cpu_temp, Platform: "CRuby"}.to_json
   puts payload
 
   request.body = payload.to_json
