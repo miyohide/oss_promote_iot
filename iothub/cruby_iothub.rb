@@ -36,6 +36,12 @@ request = Net::HTTP::Post.new(
   }
 )
 
+https = Net::HTTP.new(@host_name, 443)
+https.use_ssl = true
+https.verify_mode = OpenSSL::SSL::VERIFY_PEER
+
+response = nil
+
 1_000.times do
   now_time = Time.now.instance_eval { '%s.%03d' % [strftime('%Y/%m/%d %H:%M:%S'), (usec / 1000.0).round]}
   temp = `./temper`
@@ -49,11 +55,6 @@ request = Net::HTTP::Post.new(
   puts payload
 
   request.body = payload.to_json
-
-  response = nil
-  https = Net::HTTP.new(@host_name, 443)
-  https.use_ssl = true
-  https.verify_mode = OpenSSL::SSL::VERIFY_PEER
 
   https.start {
     response = https.request(request)
