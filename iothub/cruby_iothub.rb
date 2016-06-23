@@ -60,5 +60,7 @@ response = nil
     response = https.request(request)
   }
 
+  puts "送信エラー #{response.inspect}" unless response.is_a?(Net::HTTPSuccess)
+
   sleep(1)
 end
