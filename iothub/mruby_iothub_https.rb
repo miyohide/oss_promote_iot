@@ -21,8 +21,8 @@ http = HttpRequest.new
   temp = `./temper`
   temp.chomp!
   volt = `/opt/vc/bin/vcgencmd measure_volts core`
-  volt = volt.split("=").last.to_f.to_s
-  mem  = `ps -o rss= -p #{Process.pid}`.to_i.to_s
+  volt = volt.split("=").last.to_f
+  mem  = `ps -o rss= -p #{Process.pid}`.to_i
   cpu_temp = `cat /sys/class/thermal/thermal_zone0/temp`
   cpu_temp.chomp!
 

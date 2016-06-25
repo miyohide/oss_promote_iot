@@ -42,7 +42,8 @@ https.verify_mode = OpenSSL::SSL::VERIFY_PEER
 
 response = nil
 
-1_000.times do |i|
+1_000.times do
+  now_time = Time.now.instance_eval { '%s.%03d' % [strftime('%Y/%m/%d %H:%M:%S'), (usec / 1000.0).round]}
   temp = `./temper`
   temp.chomp!
   volt = `/opt/vc/bin/vcgencmd measure_volts core`
@@ -50,7 +51,7 @@ response = nil
   mem  = `ps -o rss= -p #{Process.pid}`.to_i
   cpu_temp = `cat /sys/class/thermal/thermal_zone0/temp`
   cpu_temp.chomp!
-  payload = {Count: i, Temp: temp, Volt: volt, Mem: mem, CpuTemp: cpu_temp, Platform: "CRuby"}.to_json
+  payload = {DateAndTime: now_time, Temp: temp, Volt: volt, Mem: mem, CpuTemp: cpu_temp, Platform: "CRuby"}.to_json
   puts payload
 
   request.body = payload.to_json
