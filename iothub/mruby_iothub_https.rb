@@ -33,13 +33,13 @@ http = HttpRequest.new
       Mem: mem,
       CpuTemp: cpu_temp,
       Platform: "mruby"})
-  puts payload.inspect
+  puts payload
   response = http.post(uri_with_port, payload, {
       "Content-Type" => "application/json",
       "Content-Length" => payload.length.to_s,
       "Authorization" => sas_header
   })
 
-  puts response.inspect
+  puts "送信エラー #{response.code}" unless response.code == 204
   Sleep::sleep(1)
 end
