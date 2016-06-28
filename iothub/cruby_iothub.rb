@@ -12,7 +12,7 @@ CONNECTION_STRING.split(";").each do |elm|
   self.instance_variable_set("@#{key}".to_sym, elm[(elm.index('=') + 1), elm.length])
 end
 
-expiry = Time.now.to_i + 60 * 10
+expiry = Time.now.to_i + 60 * 60
 
 raw = OpenSSL::HMAC.digest(
   "sha256",
