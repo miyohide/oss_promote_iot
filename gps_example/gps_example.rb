@@ -7,7 +7,7 @@ SerialPort.open('/dev/ttyUSB0', 4800, 8, 1, SerialPort::NONE) { |sp|
       line = sp.readline
       if line =~ /^\$GPGGA/
         columns = line.split(",")
-        puts "time = #{columns[1]}, keido = #{columns[2]}, ido = #{columns[4]}"
+        puts "time = #{columns[1]}, ido = #{columns[2]}, keido = #{columns[4]}"
         break
       end
     rescue ArgumentError
