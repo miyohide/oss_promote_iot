@@ -24,6 +24,7 @@ MRuby::Build.new do |conf|
   conf.gem github: 'mattn/mruby-http'
   conf.gem github: 'iij/mruby-digest'
   conf.gem github: 'matsumoto-r/mruby-httprequest'
+  conf.gem github: 'monochromegane/mruby-time-strftime'
   conf.gem github: 'luisbebop/mruby-polarssl'
   conf.gem github: 'iij/mruby-env'
   conf.gem github: 'iij/mruby-process'
