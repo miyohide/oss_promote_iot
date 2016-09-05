@@ -28,7 +28,6 @@ end
 sp.close
 
 gps_columns = gps_data.split(",")
-gps_time = gps_columns[1]
 
 http = HttpRequest.new
 temp = `./temper`
@@ -40,7 +39,7 @@ cpu_temp = `cat /sys/class/thermal/thermal_zone0/temp`
 cpu_temp.chomp!
 
 payload = JSON::stringify(
-  {DateAndTime: gps_time,
+  {DateAndTime: Time.now("%Y/%m/%d %H:%M:%S"),
     Temp: temp,
     Volt: volt,
     Mem: mem,
