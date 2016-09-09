@@ -2,6 +2,6 @@ def __main__(argv)
   if argv[1] == "version"
     puts "v#{RunInfo::VERSION}"
   else
-    puts "Hello World"
+    RunInfo::EventSender.new.send_message
   end
 end
