@@ -2,10 +2,10 @@ module RunInfo
   DEVICE_NAME = ENV["DEVICE_NAME"]
   SHARED_ACCESS_KEY = ENV["SHARED_ACCESS_KEY"]
   HOST_NAME = ENV["HOST_NAME"]
+  RUN_COUNT = ENV["RUN_COUNT"]
   REQUEST_PATH = "devices/#{DEVICE_NAME}/messages/events?api-version=2015-08-15-preview"
 
   URI_WITH_PORT = "https://#{HOST_NAME}:443/#{REQUEST_PATH}"
-
 
   class EventSender
     def temp
@@ -59,6 +59,7 @@ module RunInfo
           CpuTemp: cpu_temp,
           ido: gps_columns[2],
           keido: gps_columns[4],
+          run_count: RUN_COUNT
         }
       )
     end
@@ -74,6 +75,5 @@ module RunInfo
         }
       )
     end
-
   end
 end
