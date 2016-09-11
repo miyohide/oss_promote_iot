@@ -9,7 +9,7 @@ module RunInfo
 
   class EventSender
     def temp
-      `./temper`.chomp
+      `/opt/temper`.chomp
     end
 
     def cpu_volt
@@ -67,6 +67,7 @@ module RunInfo
     def send_message
       http = HttpRequest.new
       message = create_message
+      puts message
       http.post(URI_WITH_PORT, message,
         {
           "Content-Type" => "application/json",
