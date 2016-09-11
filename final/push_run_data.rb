@@ -3,6 +3,22 @@ SHARED_ACCESS_KEY = ENV["SHARED_ACCESS_KEY"]
 HOST_NAME = ENV["HOST_NAME"]
 REQUEST_PATH = "devices/#{DEVICE_NAME}/messages/events?api-version=2015-08-15-preview"
 
+def temp
+  `./temper`.chomp
+end
+
+def cpu_volt
+  `/opt/vc/bin/vcgencmd measure_volts core`.split("=").last.to_f
+end
+
+def use_memory_size
+  `ps -o rss= -p #{Process.pid}`.to_i
+end
+
+def cpu_temp
+  `cat /sys/class/thermal/thermal_zone0/temp`.chomp!
+end
+
 uri_with_port = "https://#{HOST_NAME}:443/#{REQUEST_PATH}"
 
 expiry = Time.now.to_i  + 60 * 60
@@ -30,19 +46,12 @@ sp.close
 gps_columns = gps_data.split(",")
 
 http = HttpRequest.new
-temp = `./temper`
-temp.chomp!
-volt = `/opt/vc/bin/vcgencmd measure_volts core`
-volt = volt.split("=").last.to_f
-mem  = `ps -o rss= -p #{Process.pid}`.to_i
-cpu_temp = `cat /sys/class/thermal/thermal_zone0/temp`
-cpu_temp.chomp!
 
 payload = JSON::stringify(
   {DateAndTime: Time.now("%Y/%m/%d %H:%M:%S"),
     Temp: temp,
-    Volt: volt,
-    Mem: mem,
+    Volt: cpu_volt,
+    Mem: use_memory_size,
     CpuTemp: cpu_temp,
     ido: gps_columns[2],
     keido: gps_columns[4],
