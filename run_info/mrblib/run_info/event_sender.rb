@@ -23,6 +23,7 @@ module RunInfo
     def gps_data
       sp = SerialPort.new("/dev/ttyUSB0", 4800, 8, 1, 0)
       sp.read_timeout = 1000
+      gps_line = ""
       loop do
         gps_line = sp.readline
         if gps_line =~ /^\$GPGGA/
