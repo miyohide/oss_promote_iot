@@ -31,7 +31,7 @@ module RunInfo
       end
       sp.close
 
-      gps_data.split(",")
+      gps_line.split(",")
     end
 
     def cpu_temp
