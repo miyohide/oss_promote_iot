@@ -68,6 +68,7 @@ module RunInfo
     def send_message
       http = HttpRequest.new
       message = create_message
+      File.open("/tmp/#{RUN_COUNT}.txt", "a") { |f| f.puts(message) }
       puts message
       http.post(URI_WITH_PORT, message,
         {
