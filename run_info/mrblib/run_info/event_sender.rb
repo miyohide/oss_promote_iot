@@ -53,7 +53,7 @@ module RunInfo
     def create_message
       gps_columns = gps_data
       JSON::stringify(
-        {DateAndTime: Time.now("%Y/%m/%d %H:%M:%S"),
+        {DateAndTime: Time.now.strftime("%Y/%m/%d %H:%M:%S"),
           Temp: temp,
           Volt: cpu_volt,
           Mem: use_memory_size,
